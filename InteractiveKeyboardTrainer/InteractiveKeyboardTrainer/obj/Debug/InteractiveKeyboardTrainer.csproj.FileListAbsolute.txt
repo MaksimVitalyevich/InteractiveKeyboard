@@ -1,0 +1,15 @@
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\bin\Debug\InteractiveKeyboardTrainer.exe.config
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\bin\Debug\InteractiveKeyboardTrainer.exe
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\bin\Debug\InteractiveKeyboardTrainer.pdb
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\InteractiveKeyboardTrainer.csproj.AssemblyReference.cache
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\MainWindow.g.cs
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\App.g.cs
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\InteractiveKeyboardTrainer_MarkupCompile.cache
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\InteractiveKeyboardTrainer_MarkupCompile.lref
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\MainWindow.baml
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\InteractiveKeyboardTrainer.g.resources
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\InteractiveKeyboardTrainer.Properties.Resources.resources
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\InteractiveKeyboardTrainer.csproj.GenerateResource.cache
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\InteractiveKeyboardTrainer.csproj.CoreCompileInputs.cache
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\InteractiveKeyboardTrainer.exe
+C:\Users\СтудентВА\source\repos\InteractiveKeyboardTrainer\InteractiveKeyboardTrainer\obj\Debug\InteractiveKeyboardTrainer.pdb
